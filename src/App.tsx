@@ -65,7 +65,7 @@ function App() {
       </div>
       {questions.map((qs, i) => (
         <div className="exam" key={i}>
-          Tema {i}
+          Tema {i+1}
           {qs.map((q, j) => (
             <div key={j}>
               <b>{q[0]}</b>
