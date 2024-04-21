@@ -36,7 +36,7 @@ function App() {
         columns: false,
         skip_empty_lines: true
       });
-      const qs = Array.from({length: 20}, (x, i) => i).map(() => {
+      const qs = Array.from({length: numExams}, (x, i) => i).map(() => {
         shuffle(records)
         return records.slice(0, questionsPerExam)
       });
