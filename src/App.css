@@ -8,5 +8,13 @@
 }
 
 ol, li {
+    list-style-type: decimal;
+}
+ol ol, ol ol li {
     list-style-type: lower-latin;
+}
+
+textarea {
+    width: 100%;
+    height: 8rem;
 }
