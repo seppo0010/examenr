@@ -73,6 +73,7 @@ function App() {
             </section>
           )}
         </Dropzone>
+        <a href={process.env.PUBLIC_URL + "/questions.csv"}>Ver ejemplo</a>
       </div>
       {questions.map((qs, i) => (
         <div className="exam" key={i}>
