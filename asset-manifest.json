@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/examenr/static/css/main.abc1d7f8.css",
-    "main.js": "/examenr/static/js/main.661261ec.js",
+    "main.js": "/examenr/static/js/main.be4a39e4.js",
     "static/js/453.2d8a7e2e.chunk.js": "/examenr/static/js/453.2d8a7e2e.chunk.js",
     "index.html": "/examenr/index.html",
     "main.abc1d7f8.css.map": "/examenr/static/css/main.abc1d7f8.css.map",
-    "main.661261ec.js.map": "/examenr/static/js/main.661261ec.js.map",
+    "main.be4a39e4.js.map": "/examenr/static/js/main.be4a39e4.js.map",
     "453.2d8a7e2e.chunk.js.map": "/examenr/static/js/453.2d8a7e2e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abc1d7f8.css",
-    "static/js/main.661261ec.js"
+    "static/js/main.be4a39e4.js"
   ]
 }
